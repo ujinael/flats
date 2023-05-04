@@ -1,5 +1,5 @@
 <template>
-<div class="status_tag" :class="[status]">
+<div :title="localization[status]" class="status_tag" :class="[status]">
     <span class="dot">&#8226;</span>
     &nbsp;{{localization[status]}}
 </div>
