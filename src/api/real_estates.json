@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "price": "7 733 300",
+    "type": "flat",
+    "state": "from_lawer",
+    "title": "Чистое Небо",
+    "location": "Лен. область, Всеволожский район,\nд. Кудрово, ул. Столичная, д. 5, к. 1",
+    "imgPath": "image_105",
+    "params": {
+      "flatNumber": "62",
+      "square": "234.38",
+      "flatRoom":"1",
+      "floor":"7"
+    },
+    "placementDate": "2020-11-21T12:14:22+00:00",
+    "commissioningInfo": "корпус 10, III кв. 2022 г."
+  },
+  {
+    "id": 2,
+    "price": "7 733 300",
+    "type": "flat",
+    "state": "from_physic",
+    "title": "Зеленый квартал на Пулковских высотах",
+    "location": "Комендантский пр., уч. 1 Каменка",
+    "imgPath": "image_105",
+    "params": {
+      "flatNumber": "62",
+      "square": "234.38",
+      "flatRoom":"1",
+      "floor":"7"
+    },
+    "placementDate": "2020-11-21T12:14:22+00:00",
+    "commissioningInfo": "корпус 10, III кв. 2022 г."
+  },
+  {
+    "id": 3,
+    "price": "800 300",
+    "type": "parking",
+    "state": "bronned",
+    "title": "Зеленый квартал на Пулковских высотах",
+    "location": "Ленинградская область, Всеволожский район, д. Кудрово, ул. Столичная, д. 5, к. 1",
+    "imgPath": "image_105",
+    "params": {
+      "article": "№ 7-10-2 (ПИБ №68)",
+      "square": "15"
+    },
+    "placementDate": "2020-11-21T12:14:22+00:00",
+    "commissioningInfo": "корпус 10, III кв. 2022 г."
+  },
+  {
+    "id": 4,
+    "price": "800 300",
+    "type": "parking",
+    "state": "sold",
+    "title": "Зеленый квартал на Пулковских высотах",
+    "location": "Ленинградская область, Всеволожский район, д. Кудрово, ул. Столичная, д. 5, к. 1",
+    "imgPath": "image_105",
+    "params": {
+      "article": "№ 7-10-2 (ПИБ №68)",
+      "square": "15"
+    },
+    "placementDate": "2020-11-21T12:14:22+00:00",
+    "commissioningInfo": "корпус 10, III кв. 2022 г."
+  }
+]
