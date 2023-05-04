@@ -67,7 +67,7 @@ label{
 }
 @media screen and (min-width: 699px) {
     .estates{
-        grid-template-columns: repeat(auto-fit,minmax(480px,1fr));
+        grid-template-columns: repeat(auto-fill,minmax(480px,1fr));
 
     }
 }
